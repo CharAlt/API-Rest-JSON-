@@ -1,3 +1,9 @@
 extrae o consume Json de una pagina y lo plasma en la aplicacion.
 
-el json se trata de vendores de productos
+el Json se trata de vendores de hoteles, productos o servicios.
+
+incluye un buscador en caso de necesitar especificar el vendedor.
+
+por cuestiones de seguridad no se especifica la pagina Json.
+
+hecho en Java y kotlin.
