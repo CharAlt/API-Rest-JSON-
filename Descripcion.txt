@@ -1,0 +1,3 @@
+extrae o consume Json de una pagina y lo plasma en la aplicacion.
+
+el json se trata de vendores de productos
